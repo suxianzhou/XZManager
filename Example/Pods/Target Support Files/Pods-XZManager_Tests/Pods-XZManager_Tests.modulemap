@@ -1,0 +1,6 @@
+framework module Pods_XZManager_Tests {
+  umbrella header "Pods-XZManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

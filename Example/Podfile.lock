@@ -1,0 +1,16 @@
+PODS:
+  - XZManager (0.1.0)
+
+DEPENDENCIES:
+  - XZManager (from `../`)
+
+EXTERNAL SOURCES:
+  XZManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XZManager: 643bd2a224a79f522a148e198d19c252e41b0fae
+
+PODFILE CHECKSUM: 1c1fb8bd0f4cf50e9e493cdcbcca10f000cfbb06
+
+COCOAPODS: 1.5.3
